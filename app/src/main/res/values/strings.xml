@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Activity2</string>
-    <string name="tEmail">Email</string>
-    <string name="tPassword">Password</string>
     <string name="bsignin">Sign-In</string>
+    <string name="tData">Data Anda</string>
+    <string name="tEmail">Email: </string>
+    <string name="tPassword">Password: </string>
+    <string name="txemail">Ini hasil Email</string>
+    <string name="txpassword">Ini hasil Password</string>
+    <string name="label2">Login Berhasil</string>
 </resources>
