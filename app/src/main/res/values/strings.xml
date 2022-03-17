@@ -7,4 +7,11 @@
     <string name="txemail">Ini hasil Email</string>
     <string name="txpassword">Ini hasil Password</string>
     <string name="label2">Login Berhasil</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Input name</string>
+    <string name="eemail">Input email</string>
+    <string name="epass">Enter password</string>
+    <string name="erepass">Re-enter password</string>
+    <string name="ealamat">Input address</string>
 </resources>

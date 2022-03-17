@@ -9,15 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Activity2">
-        <activity android:name=".ActivityHasil"
-            android:parentActivityName=".MainActivity"
-            android:label="@string/label2"></activity>
+        <activity
+            android:name=".ListActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ActivityHasil"
+            android:label="@string/label2"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
