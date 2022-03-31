@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity {
     public void validation(){
         nama = et_Email.getText().toString();
         password = et_Password.getText().toString();
-        emailcheck = "ahmadmm@gmail.com";
-        passcheck = "maddmm";
+        emailcheck = "ahmad";
+        passcheck = "madd";
 
         if (nama.isEmpty() && password.isEmpty())
         {
@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                 b.putString("a", nama.trim());
                 b.putString("b", password.trim());
 
-                Intent i = new Intent(getApplicationContext(), ActivityHasil.class);
+                Intent i = new Intent(getApplicationContext(), Home_Activity.class);
 
                 i.putExtras(b);
 

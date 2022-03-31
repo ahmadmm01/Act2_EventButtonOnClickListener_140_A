@@ -10,8 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Activity2">
         <activity
-            android:name=".ListActivity"
+            android:name=".ActivityLihatData"
+            android:parentActivityName=".Home_Activity"/>
+        <activity
+            android:name=".Home_Activity"
             android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ListActivity"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".ActivityHasil"
             android:label="@string/label2"
@@ -21,6 +27,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

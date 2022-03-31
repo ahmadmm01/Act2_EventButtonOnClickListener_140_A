@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_hasil.xml" value="0.15" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_lihat_data.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_lihatdata.xml" value="0.1" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_list.xml" value="0.33" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_main.xml" value="0.10461956521739131" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/activity_view_data.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/layout/item_listview.xml" value="0.15896739130434784" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/menu/menu.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Activity2/app/src/main/res/menu/popup_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

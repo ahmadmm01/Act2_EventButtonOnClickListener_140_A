@@ -14,4 +14,11 @@
     <string name="epass">Enter password</string>
     <string name="erepass">Re-enter password</string>
     <string name="ealamat">Input address</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Name</string>
+    <string name="notel">Phone Number</string>
 </resources>
